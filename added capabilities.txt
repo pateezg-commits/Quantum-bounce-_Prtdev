@@ -18,3 +18,10 @@ If you try to catch the wrong ball, it will simply phase through the paddle.
 Manual State Flip: Press SPACE to manually toggle the paddle between Real and Ghost states.
 
 Entangled Identity: When the balls hit the ceiling and swap, the paddle has a 50% chance to flip its state too, forcing you to react instantly.
+
+make sure to run 
+pip install -r requirements.txt
+
+this install dependencies including 3d .
+make sure to update gpu drivers.
+
