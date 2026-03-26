@@ -1,0 +1,20 @@
+
+Quantum bounce 4ds
+🗝️ New Mechanics:
+3D Mouse Control: * X-Axis: Move the mouse left/right.
+
+Y-Axis: Move the mouse up/down.
+
+Z-Axis (In/Out): The paddle now vibrates back and forth in depth based on the stability level. You have to time your 3D position to match the balls.
+
+Paddle Ghosting:
+
+Real Paddle (Solid White): Can only bounce the Cyan (Real) ball.
+
+Ghost Paddle (Transparent Purple): Can only bounce the Magenta (Ghost) ball.
+
+If you try to catch the wrong ball, it will simply phase through the paddle.
+
+Manual State Flip: Press SPACE to manually toggle the paddle between Real and Ghost states.
+
+Entangled Identity: When the balls hit the ceiling and swap, the paddle has a 50% chance to flip its state too, forcing you to react instantly.
