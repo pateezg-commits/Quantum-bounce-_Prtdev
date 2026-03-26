@@ -55,4 +55,14 @@ conda activate qgame
 pip install qiskit qiskit-aer pygame
 Conda manages those pesky C++ dependencies much better than standard Pip on Windows.
 
+EASY setup if you dont want developmnent stuff
+
+make sure to run 
+pip install -r requirements.txt
+
+this install dependencies including 3d .
+make sure to update gpu drivers.
+
+
+
 thats it ... deploy with python quantum_bounce.py
