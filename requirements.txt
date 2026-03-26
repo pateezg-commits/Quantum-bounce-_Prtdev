@@ -1,0 +1,13 @@
+# Game Engine and Window Management
+pygame==2.5.2
+
+# 3D Rendering and Shader Support
+PyOpenGL==3.1.7
+PyOpenGL-accelerate==3.1.7
+
+# Quantum Simulation Engine
+qiskit==1.0.2
+qiskit-aer==0.14.1
+
+# Numerical Utilities
+numpy>=1.23.5
